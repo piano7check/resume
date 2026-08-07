@@ -22,7 +22,7 @@ function App() {
             <h1>{profile.name}</h1>
             <h2>{profile.role}</h2>
             <p className="summary">{profile.summary}</p>
-          </div>
+          </div>ingles
         </div>
         <div className="contact-card">
           {profile.contact.map((item) => (
