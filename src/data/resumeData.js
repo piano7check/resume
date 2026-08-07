@@ -94,5 +94,5 @@ export const skills = [
   'Scrum',
 ]
 
-export const languages = ['Español: Nativo', 'Inglés: Intermedio']
+export const languages = ['Español: Nativo', 'Inglés: Avanzado']
 export const hobbies = ['Viajar', 'Ajedrez', 'Piano']
